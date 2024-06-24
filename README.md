@@ -7,7 +7,7 @@
 
 ##OVERVIEW OF THE PROJECT
 
-###Proejct: Personal Portfolio Website
+###Project: Personal Portfolio Website
 ![Screenshot 2024-06-24 171954](https://github.com/Patty1690/CODTECH-INTERNSHIP-TASK1/assets/159183791/aaa78cc3-e480-49c2-ab78-a30289796549)
 
 

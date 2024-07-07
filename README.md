@@ -1,5 +1,5 @@
 **Name:** Prateek Bag
-**Company:** CODTECH IT SOLUTIONS
+**Company:**CODTECH IT SOLUTIONS
 **ID:** CT08DS1769
 **Domain:** Frontend Developer
 **Duration:** 10TH JUNE 2024 TO 10TH JULY 2024 

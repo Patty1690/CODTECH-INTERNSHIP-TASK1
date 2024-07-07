@@ -9,6 +9,10 @@
 
 ### Project: Personal Portfolio Website
 ![Screenshot 2024-06-24 171954](https://github.com/Patty1690/CODTECH-INTERNSHIP-TASK1/assets/159183791/aaa78cc3-e480-49c2-ab78-a30289796549)
+![Screenshot 2024-07-07 123304](https://github.com/Patty1690/CODTECH-INTERNSHIP-TASK1/assets/159183791/30db235d-e63c-4b1e-9588-511ef1e552e3)
+![Screenshot 2024-07-07 123330](https://github.com/Patty1690/CODTECH-INTERNSHIP-TASK1/assets/159183791/3e596594-9e47-4f28-8e88-50bcbbde557c)
+
+
 
 
 

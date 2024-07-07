@@ -1,4 +1,4 @@
-**Name:** Prateek Bag
+###Name:** Prateek Bag
 **Company:** CODTECH IT SOLUTIONS
 **ID:** CT08DS1769
 **Domain:** Frontend Developer
